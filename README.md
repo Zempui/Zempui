@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zempui
+- 👋 Hi, I’m **@Zempui**
 - 👀 I’m interested in perfecting my coding skills
 - 🌱 I’m currently studying Telecomunications Engineering
 - 💞️ I’m looking to collaborate on any interesting project
