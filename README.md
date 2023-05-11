@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on any interesting project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zempui&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zempui&theme=github_dark&hide_border=true&count_private=true&layout=donut&bg_color=00000000" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=zempui&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zempui&theme=github_dark&hide_border=true&count_private=true&layout=donut" height="200">
 </p>
