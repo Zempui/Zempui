@@ -7,7 +7,7 @@
         Member of my university's robotics association, <b>ESIBot</b>.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="http://alvarodecastro.com"><img src="https://img.shields.io/badge/ABOUT-444444?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <a href="http://alvarodecastro.com"><img src="https://img.shields.io/badge/Web-444444?style=flat-square&logo=apache&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/alvaro-de-castro/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
