@@ -1,4 +1,4 @@
-<h1 align="center">Hello, everyone! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, everyone! 👋</h1>
 <p align="center">
     <b>Welcome to my github profile!</b><br><br>
     <i>
