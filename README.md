@@ -3,8 +3,7 @@
     <b>Welcome to my github profile!</b><br><br>
     <i>
         I'm Álvaro.<br>
-        Currently studying telecommunication engineering at <b>Universidad de Sevilla</b>.<br>
-        Member of my university's robotics association, <b>ESIBot</b>.<br>
+        Currently studying my master's degree on telecommunication engineering at <b>Universidad Politécnica de Madrid</b>.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="http://alvarodecastro.com"><img src="https://img.shields.io/badge/Web-444444?style=flat-square&logo=apache&logoColor=white"></a>
