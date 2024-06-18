@@ -3,7 +3,7 @@
     <b>Welcome to my github profile!</b><br><br>
     <i>
         I'm Álvaro.<br>
-        Currently studying a double master's degree in telecommunication engineering at <b>Universidad Politécnica de Madrid</b><br>and in Digital Security at <b>EURECOM</b>.<br> 
+        Currently studying a double master's degree in telecommunication engineering at <b>Universidad Politécnica de Madrid</b> and in Digital Security at <b>EURECOM</b>.<br> 
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 </p>
